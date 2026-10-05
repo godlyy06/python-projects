@@ -14,7 +14,8 @@ This repository documents my progress as I develop my Python skills through exer
 
 ## Projects
 
-Projects will be added as I continue learning Python.
+- User Configuration Manager
+A User Configuration Manager that allows users to manage their settings such as theme, language, and notifications.
 
 ## Future Topics
 
