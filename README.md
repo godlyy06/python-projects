@@ -17,6 +17,9 @@ This repository documents my progress as I develop my Python skills through exer
 - User Configuration Manager
 A User Configuration Manager that allows users to manage their settings such as theme, language, and notifications.
 
+- Encrypt / Decrypt Program 
+This program encodes or decodes messages with a Caesar cipher, preserving letter case and leaving spaces and punctuation unchanged.
+
 ## Future Topics
 
 As I progress, I plan to explore more advanced Python concepts and use Python for different areas of computer science.
