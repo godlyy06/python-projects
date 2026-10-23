@@ -22,6 +22,7 @@ This program encodes or decodes messages with a Caesar cipher, preserving letter
 
 - Conway's Game of Life
 Famous game, able to play in your Command Line Interface. Project is unfinished because I was unable to fix a problem. (STILL IN PROGRESS) //try it yourself
+(Version.2 You can move around with "WASD" in the terminal.
 
 ## Future Topics
 
