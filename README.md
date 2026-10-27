@@ -21,8 +21,19 @@ A User Configuration Manager that allows users to manage their settings such as 
 This program encodes or decodes messages with a Caesar cipher, preserving letter case and leaving spaces and punctuation unchanged.
 
 - Conway's Game of Life
-Famous game, able to play in your Command Line Interface. Project is unfinished because I was unable to fix a problem. (STILL IN PROGRESS) //try it yourself
-(Version.2 You can move around with "WASD" in the terminal.
+A terminal-based version with a free-play sandbox and a timed population
+challenge. Move around the board, edit cells, place famous patterns, adjust
+the simulation speed, and track your score and largest population. Score is
+earned from the living-cell population after each generation.
+
+Run `python conways-wayoflife.py` from the `conways-game` folder.
+
+Controls:
+- `WASD`: move the cursor; `Space`: toggle a cell
+- `P` or `Enter`: run or pause; `N`: advance one generation
+- `1`-`5`: place a glider, blinker, toad, beacon, or pulsar centered on the cursor
+- `+` / `-`: change simulation speed; `G`: randomize the board
+- `C`: clear the board; `R`: restart; `M`: return to the menu; `Q`: quit
 
 ## Future Topics
 
